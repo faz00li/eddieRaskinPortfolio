@@ -1,0 +1,11 @@
+
+
+/* layout.css */
+
+* {box-sizing: border-box;}
+
+nav { overflow: hidden; }
+
+nav a { padding: 14px 50px; }
+
+nav ul li { display: inline-block; }

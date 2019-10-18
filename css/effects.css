@@ -1,0 +1,35 @@
+
+
+/* effects.css */
+
+/* photo */
+img {
+     width:55%;
+     height:55%;
+     border-radius: 450px;
+     border: solid black 7px;
+}
+
+
+/* background texture */
+body { background-image: url(../images/black-felt.png); }
+
+nav { background-image: url(../images/beige-paper.png); }
+
+nav a { background-image: url(../images/beige-paper.png); }
+
+
+/* NAVIGATION */
+nav { background-color:rgba(192,192,192,0.3); font-size: 1.2em; }
+
+nav a{ text-decoration: none; color: #F8F8F8; font-size: 1em; }
+
+nav a { background-color: #c78500; }
+
+nav a:hover{ background-color: #ff7700; }
+
+nav a:active{ background-color: black; }
+
+nav ul li{ list-style: none; }
+
+.current { background-color: #ff4500; }
