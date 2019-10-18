@@ -23,4 +23,4 @@ Bootstrap
 ### License
 
 
-Copyright (c) 2019 **_{Eddie Raskin}_**
+Copyright (c) 2019 **_Eddie Raskin_**

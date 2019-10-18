@@ -10,6 +10,10 @@ img {
      border: solid black 7px;
 }
 
+.jumbotron {
+  background: -webkit-linear-gradient(to left, #9E9AB4, #6d6985);
+  background: linear-gradient(to left, #9E9AB4, #6d6985);
+}
 
 /* background texture */
 body { background-image: url(../images/black-felt.png); }

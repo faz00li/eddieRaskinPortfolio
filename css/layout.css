@@ -4,6 +4,23 @@
 
 * {box-sizing: border-box;}
 
+img {
+  float: left;
+}
+
+.jumbotron {
+  padding-top: 5em;
+  border-radius: 0.3rem;
+}
+
+.motto {
+  float: right;
+}
+
+.aboutMe {
+  padding-left: 20px;
+}
+
 nav { overflow: hidden; }
 
 nav a { padding: 14px 50px; }

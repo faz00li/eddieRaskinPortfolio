@@ -1,6 +1,11 @@
-/*
-   Eddie Raskin
-   onepot.com
-   BIT 102, Spring
-   Hull
-*/
+
+
+/* typography */
+
+.motto {
+  font-style: italic;
+}
+
+.myName {
+  font-size: 4em;
+}
